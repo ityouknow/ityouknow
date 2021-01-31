@@ -4,7 +4,7 @@
 
 博客访问地址：[http://www.ityouknow.com/](http://www.ityouknow.com/)
 
-我的微信公众号：**纯洁的微笑** ![](http://favorites.ren/assets/images/keeppuresmile_430.jpg)
+我的微信公众号：**纯洁的微笑** ，可以回复 1024 ，有惊喜。![](http://favorites.ren/assets/images/keeppuresmile_430.jpg)
 
 
 ## 我的故事
