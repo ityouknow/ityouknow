@@ -1,10 +1,10 @@
-# 个人博客
+# 我的介绍
 
-这是我的个人博客项目，里面会记录生活和技术的点点滴滴。
+16年程序员，现在是一名创业者，长期关注 AI 、出海、WEB3
 
-博客访问地址：[http://www.ityouknow.com/](http://www.ityouknow.com/)
+会在 X 平台上实时更新一些我的思考：[http://www.ityouknow.com/](http://www.ityouknow.com/)
 
-我的微信公众号：**纯洁的微笑** ，可以回复 1024 ，有惊喜。![](http://ityouknow.com/assets/images/keeppuresmile_430.jpg)
+我的微信公众号：**纯洁的微笑** ，可以回复 1024 ，可以找到我。![](http://ityouknow.com/assets/images/keeppuresmile_430.jpg)
 
 
 ## 我的故事
