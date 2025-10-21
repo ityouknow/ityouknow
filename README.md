@@ -2,7 +2,7 @@
 
 16年程序员，现在是一名创业者，长期关注 AI 、出海、WEB3
 
-会在 X 平台上实时更新一些我的思考：[http://www.ityouknow.com/](http://www.ityouknow.com/)
+会在 X 平台上实时更新一些我的思考：[https://x.com/ityouknows](https://x.com/ityouknows)
 
 我的微信公众号：**纯洁的微笑** ，可以回复 1024 ，可以找到我。![](http://ityouknow.com/assets/images/keeppuresmile_430.jpg)
 
